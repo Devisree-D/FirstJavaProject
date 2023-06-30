@@ -1,0 +1,2 @@
+module Firstjavaproject {
+}
